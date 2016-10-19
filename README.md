@@ -1,7 +1,7 @@
 # mern-es6
 Andrew's ES6 / Webpack version of react-tutorial-mern
 
-### Install
+<!-- ### Install
 
 After cloning the git repo:
 
@@ -21,4 +21,4 @@ This will not exit, and will watch for modified files and re-pack the bundles.
 
 `npm start`
 
-This will start the webserver on port 3000.
+This will start the webserver on port 3000. -->
